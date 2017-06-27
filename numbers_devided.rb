@@ -1,11 +1,9 @@
-def x()
-	x = 12
-end
-def y()
-	y = 0
+def divide(x,y)
+	if y == 0
+		puts "cant divide with zero"
+	else
+		p	x / y
+	end
 end
 
-def answer
-	x/y
-end
-p answer
+divide(114,2)
