@@ -6,4 +6,4 @@ def divide(x,y)
 	end
 end
 
-#divide(114,2)
+divide(1,1)
